@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer",
+      "subject": "General; and Electrical and Electronics Engineering",
+      "message": "Hey there Electronics Engineer"
+    },
+    {
+      "userId": 2,
+      "firstName": "racks",
+      "lastName": "jacson",
+      "phoneNumber": "123456",
+      "emailAddress": "racks.jacson@learningcontainer",
+      "subject": "Mathematics",
+      "message": "Hey there Mathematician"
+    },
+    {
+      "userId": 3,
+      "firstName": "denial",
+      "lastName": "roast",
+      "phoneNumber": "33333333",
+      "emailAddress": "denial.roast@learningcontainer",
+      "subject": "General; Physics",
+      "message": "Hey there Physicist"
+    },
+    {
+      "userId": 4,
+      "firstName": "devid",
+      "lastName": "neo",
+      "phoneNumber": "222222222",
+      "emailAddress": "devid.neo@learningcontainer",
+      "subject": "Mechanical Engineering",
+      "message": "Hey there Engineer"
+    },
+    {
+      "userId": 5,
+      "firstName": "jone",
+      "lastName": "mac",
+      "phoneNumber": "111111111",
+      "emailAddress": "jone.mac@learningcontainer",
+      "subject": "Computer Science",
+      "message": "Hey there Computer scientist"
+    }
+  ]
+}
